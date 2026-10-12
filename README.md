@@ -124,5 +124,5 @@ This project is part of my learning journey toward becoming a data analyst, usin
 ### 4. Data Cleaning
 ![Data Cleaning](./screenshotss/pshot4.png)
 
-### 5. Cleaned Dataset
-![Cleaned Dataset](./screenshotss/pshot5.png)
+### 5. Data Information
+![Data Information](./screenshotss/pshot5.png)
