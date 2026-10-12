@@ -116,13 +116,13 @@ This project is part of my learning journey toward becoming a data analyst, usin
 ![Dataset Preview](./screenshotss/pshot1.png)
 
 ### 2. Data Inspection
-![Data Inspection](.screenshotss/pshot2.png)
+![Data Inspection](./screenshotss/pshot2.png)
 
 ### 3. Missing Values
-![Missing Values](.screenshotss/pshot3.png)
+![Missing Values](./screenshotss/pshot3.png)
 
 ### 4. Data Cleaning
-![Data Cleaning](.screenshotss/pshot4.png)
+![Data Cleaning](./screenshotss/pshot4.png)
 
 ### 5. Cleaned Dataset
-![Cleaned Dataset](.screenshotss/pshot5.png)
+![Cleaned Dataset](./screenshotss/pshot5.png)
