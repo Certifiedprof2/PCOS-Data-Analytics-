@@ -110,3 +110,19 @@ I am developing my skills in data analytics by working on practical projects tha
 This project is part of my learning journey toward becoming a data analyst, using real-world-style datasets to strengthen my technical skills and communicate insights effectively.
 
 **Tools:** Python | Pandas | NumPy | Power BI | Jupyter Notebook
+## Project Screenshots
+
+### 1. Dataset Preview
+![Dataset Preview](.screenshots/pshot%201.png)
+
+### 2. Data Inspection
+![Data Inspection](.screenshots/pshot%202.png)
+
+### 3. Missing Values
+![Missing Values](.screenshots/pshot%203.png)
+
+### 4. Data Cleaning
+![Data Cleaning](.screenshots/pshot%204.png)
+
+### 5. Cleaned Dataset
+![Cleaned Dataset](.screenshots/pshot%205.png)
