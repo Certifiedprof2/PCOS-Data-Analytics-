@@ -118,8 +118,8 @@ This project is part of my learning journey toward becoming a data analyst, usin
 ### 2. Data Inspection
 ![Data Inspection](./screenshotss/pshot2.png)
 
-### 3. Missing Values
-![Missing Values](./screenshotss/pshot3.png)
+### 3. Data Investigation
+![Data Investigation](./screenshotss/pshot3.png)
 
 ### 4. Data Cleaning
 ![Data Cleaning](./screenshotss/pshot4.png)
