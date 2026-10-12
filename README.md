@@ -113,7 +113,7 @@ This project is part of my learning journey toward becoming a data analyst, usin
 ## Project Screenshots
 
 ### 1. Dataset Preview
-![screenshotss](.screenshotss/pshot%1.png)
+![Dataset Preview](./screenshotss/pshot1.png)
 
 ### 2. Data Inspection
 ![Data Inspection](.screenshotss/pshot%2.png)
